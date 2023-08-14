@@ -9,7 +9,7 @@ export default function Home() {
           Software Architecture and Infrastructure
         </p>
         <p className={"text-slate-400"}>
-          Terraform, AWS (Glue, ECS, Step Functions), Vercel...
+          Terraform, AWS (Glue, ECS, Step Functions), Vercel, Netlify, Google Cloud...
         </p>
       </div>
 
